@@ -1,0 +1,7 @@
+{
+  "name": "EHMCare Clinic & Academy",
+  "description": "Clinic & Academy of Holistic & Traditional Chinese Medicine, Healthcare Expansion & Modern Diagnostic Wing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

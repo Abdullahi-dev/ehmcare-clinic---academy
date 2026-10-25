@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage / Primary Portal -->
+  <url>
+    <loc>https://ehmcarehub.com/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Clinical Treatments & TCM Inpatient Care -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=treatments-and-tcm-care</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- EHMCare Clinical Training Academy -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=ehmcare-academy</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Academy Admissions & Direct Enrollment Application -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=enroll-in-academy</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Student LMS & Clinical Video Curriculum Portal -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=student-lms-portal</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Patient Recovery Case Studies & Clinical Success Videos -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=patient-stories-and-videos</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Future Hospital Divisions, Diagnostic Campus & Pharmacology Labs -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=future-divisions</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Institutional Investors & Global Health Partners -->
+  <url>
+    <loc>https://ehmcarehub.com/?tab=investor-and-global-partners</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>

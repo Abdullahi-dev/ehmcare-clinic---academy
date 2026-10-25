@@ -1,0 +1,10 @@
+# Robots.txt for EHMCare Integrated Healthcare & Academy
+# https://ehmcarehub.com
+
+User-agent: *
+Allow: /
+Disallow: /admin-portal
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://ehmcarehub.com/sitemap.xml

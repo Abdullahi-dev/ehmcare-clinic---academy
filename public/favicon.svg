@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ehmcareGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#004c22" />
+      <stop offset="100%" stop-color="#002b13" />
+    </linearGradient>
+    <linearGradient id="limeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#acf770" />
+      <stop offset="100%" stop-color="#72d936" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background rounded squircle -->
+  <rect width="64" height="64" rx="16" fill="url(#ehmcareGrad)" />
+
+  <!-- Subtle inner border ring -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#acf770" stroke-opacity="0.3" stroke-width="1.5" />
+
+  <!-- Medical Cross Accent in Corner -->
+  <path d="M46 14 H52 V20 H46 Z" fill="#acf770" opacity="0.9" rx="1"/>
+  <rect x="48" y="11" width="2" height="12" fill="#acf770" rx="1" />
+  <rect x="43" y="16" width="12" height="2" fill="#acf770" rx="1" />
+
+  <!-- Botanical Leaf & Meridian Acupoint Path -->
+  <g transform="translate(10, 10)">
+    <!-- Main Healing Leaf Silhouette -->
+    <path d="M22 6 C32 6 38 14 38 24 C38 34 26 38 18 38 C14 38 8 36 6 32 C4 28 4 20 10 14 C15 8 18 6 22 6 Z" fill="url(#limeGrad)" />
+    
+    <!-- Central Meridian Line (Needle / Stem) -->
+    <path d="M7 33 Q 18 24 24 9" stroke="#004c22" stroke-width="2.5" stroke-linecap="round" fill="none" />
+    
+    <!-- Secondary Acupoints / Meridian pulses -->
+    <circle cx="24" cy="9" r="2.5" fill="#ffffff" />
+    <circle cx="18" cy="18" r="2" fill="#004c22" />
+    <circle cx="12" cy="27" r="2" fill="#004c22" />
+  </g>
+</svg>
